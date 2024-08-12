@@ -1,4 +1,7 @@
-# CodSoft_PythonProgramming
+# CodSoft_Python-Programming-Task-01
+
+# Task-01 TO-DO-LIST :- A To-Do List application is a useful project that helps users manage and organize their tasks efficiently. This project aims to create a command-line or GUI-based application using Python, allowing users to create, update, and track their to-do lists.
+
 # Task 1 (To do list)
 There is a set of tasks that awaits us every new day. Some of them might be interesting, and some can be tedious. However, the significance of completing these tasks is unquestionable, specifically in case they build on a regular basis.
 
