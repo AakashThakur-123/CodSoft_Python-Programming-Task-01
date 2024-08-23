@@ -10,12 +10,5 @@ There might be times when many of us struggle to keep a record of what we requir
 simple To-Do list manager GUI application using the Tkinter library in the Python programming language.
 * Building a To-Do list application using Tkinter
 
-The procedure of building a To-Do list management application using Tkinter is divided into several steps. These steps are shown below:
-
-Step 1: First, we will import all the modules required to build the project.
-Step 2: We will then define some functions necessary to execute the application.
-Step 3: We will then create a main window for the application.
-Step 4: We will then add a database to the application to store the data.
-Step 5: We will add the necessary widgets to the application and apply the event triggers.
 
 
